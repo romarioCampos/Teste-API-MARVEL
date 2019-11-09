@@ -43,6 +43,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Como eu fiz o código
+
+A API permitiu até 20 ilustrações sobre quadrinhos e personagens, escolhi sobre quadrinhos porque entendi que era o que mais se encaixava pelo o que foi pedido, mas não conseguir filtrar porque a escolha pelos quadrinhos me tirou a possibilidade e filtrar o nome do super-heroi.
+
 ### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
